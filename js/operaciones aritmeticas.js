@@ -1,0 +1,10 @@
+var suma = 35 + 3;
+console.log(suma);
+var resta = 20-5;
+console.log(resta);
+var multi = 3 * 8;
+console.log(multi);
+var divi = 10 /2;
+console.log(divi);
+var resto = 60 % 2;
+console.log(resto);
